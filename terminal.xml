@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Users\BKJFSH\.babun\cygwin\bin\bash.exe&quot;" />
+    <option name="myShellPath" value="&quot;C:\Users\BKJFSH\.babun\cygwin\bin\zsh.exe&quot;" />
+    <option name="mySoundBell" value="false" />
   </component>
 </application>
