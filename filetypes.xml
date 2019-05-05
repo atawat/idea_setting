@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="reconciliationTemplateV2" type="Native" />
+      <mapping ext="peoperties" type="Native" />
+      <mapping pattern="release-20190423.sql" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
