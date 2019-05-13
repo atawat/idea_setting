@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCloseSessionOnLogout" value="false" />
-    <option name="myShellPath" value="E:\cmder\Cmder.exe" />
+    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;wsl&quot;" />
   </component>
 </application>
