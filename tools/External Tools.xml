@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="cmd.exe" />
       <option name="PARAMETERS" value="/k &quot;catalina jpda run&quot;" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="c://" />
     </exec>
   </tool>
 </toolSet>
