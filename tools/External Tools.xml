@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Start jdpa Tomcat " description="打开tomcat的远程调试模式" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/k &quot;catalina jpda start&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
