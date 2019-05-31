@@ -14,6 +14,5 @@
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
