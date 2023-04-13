@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -15,4 +19,6 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Terminal.NewTab" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
