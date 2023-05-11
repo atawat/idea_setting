@@ -21,15 +21,15 @@
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="f7" second-keystroke="meta numpad5" />
+    <keyboard-shortcut first-keystroke="meta numpad5" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
-    <keyboard-shortcut first-keystroke="shift f8" second-keystroke="meta numpad8" />
+    <keyboard-shortcut first-keystroke="meta numpad8" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="f8" second-keystroke="meta numpad2" />
+    <keyboard-shortcut first-keystroke="meta numpad2" />
   </action>
   <action id="Terminal.NewTab" />
   <action id="Vcs.UpdateProject" />
