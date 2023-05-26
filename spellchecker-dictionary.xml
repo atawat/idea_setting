@@ -5,8 +5,10 @@
       <w>corpsecret</w>
       <w>docid</w>
       <w>gettoken</w>
+      <w>getuserdetail</w>
       <w>getuserinfo</w>
       <w>nacos</w>
+      <w>simplelist</w>
       <w>tarsocial</w>
       <w>weixin</w>
     </words>
