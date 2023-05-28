@@ -5,6 +5,7 @@
       <mapping ext="peoperties" type="Native" />
       <mapping pattern="release-20190423.sql" type="PLAIN_TEXT" />
       <mapping ext="apollo" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
