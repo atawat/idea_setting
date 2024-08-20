@@ -1,0 +1,21 @@
+<scheme name="_@user_One Dark Vivid Italic" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.2.0.1.0.0</property>
+    <property name="originalScheme">One Dark Vivid Italic</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.markskelton.one-dark-theme</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrainsMono Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="CaskaydiaCove Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrainsMono Nerd Font Mono" />
+</scheme>
